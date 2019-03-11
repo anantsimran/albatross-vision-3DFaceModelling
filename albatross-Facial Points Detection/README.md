@@ -4,4 +4,7 @@
 
 `To Train:`
 
-*Upload the training xml and use shapePredictor.py to create
+*Upload the training xml and use shapePredictor.py to create shapePredictor.dat*
+
+*Training params can be altered in shapePredictor.py*
+
