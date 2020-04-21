@@ -3,12 +3,12 @@
 **Use a python IDE for facial points detection**
 
 
-##Once you have the scene loaded
-*From project section [ bottom ], right click ‘Assets’ and choose ‘Show in explorer’*
+Once you have the scene loaded
+From project section [ bottom ], right click ‘Assets’ and choose ‘Show in explorer’*
 
 *Edit points.txt and overwrite points exported from Facial Points Detection Module.*
 
-##Image
+
 *From project section [ bottom ], open Images folder*
 
 *In hierarchy section [top Left], select ‘head’*
@@ -17,7 +17,7 @@
 
 *Now drag the image of the face whose points are available*
 
-##Running
+
 *Click the play button [Center top]*
 
 *Unity switches to ‘Game’ section, it is irrelevant*
